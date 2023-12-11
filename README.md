@@ -1,14 +1,5 @@
 ### <div align="center"> Hi 👋 My name is Artem Trojan (this is a real surname )💥I'm a Front-end Developer 
 </div>  
-  
-
-<div align="center">
-<img src="https://i.gifer.com/RoEm.gif" align="center" height="250" width="400" />
-</div>  
-  
-
-
-
 ### About me :  
 ### **<div align="center">Looking at my last name, you would think that my calling is Cybersecurity👨‍💻.That would be a good joke)🥰)I decided not to go far from IT and my soul chose JavaScript development 
 </div>**  
@@ -53,7 +44,7 @@
 ### Backend  
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px, color: #fff" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
