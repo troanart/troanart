@@ -1,7 +1,7 @@
 # <div align="center"> Hi 👋 My name is Artem Trojan (this is a real surname )💥I'm a Front-end Developer 
 </div>  
 
-# <div align="center">Because of my last name, I decided to choose JavaScript to feel safe👨‍💻🥰
+# <div align="center">Because of my last name, I decided to choose JavaScript to make you feel safe👨‍💻🥰
 </div>  
   
 
