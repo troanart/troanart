@@ -1,7 +1,7 @@
 # <div align="center"> Hi 👋 My name is Artem Trojan (this is a real surname )💥I'm a Front-end Developer 
 </div>  
 
-# <div align="center">Looking at my last name, you would think that my calling is Cybersecurity👨‍💻.That would be a good joke)🥰)I decided not to go far from IT and my soul chose JavaScript development 
+# <div align="center">Because of my last name, I decided to choose JavaScript to feel safe👨‍💻🥰
 </div>  
   
 
